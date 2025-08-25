@@ -56,7 +56,7 @@ This is a monorepo. It has two folders:
 4. `cd ../backend` - Go to the backend folder
 5. `yarn install` - Install the dependencies
 6. `yarn migrate` - Run the knex db migrations
-7. `yarn dev` - Start the development server (http://localhost:3001)
+7. `yarn dev` - Start the development server (http://localhost:3333)
 
 # Design
 1. [MUI](https://mui.com/) is installed and used for the design of the frontend.
